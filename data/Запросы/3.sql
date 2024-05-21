@@ -1,0 +1,1 @@
+SELECT Education_Level, Customer_Age FROM test ORDER BY Customer_Age DESC LIMIT 5;

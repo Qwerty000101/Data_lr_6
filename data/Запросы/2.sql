@@ -1,0 +1,1 @@
+SELECT Education_Level FROM test LIMIT 5;
